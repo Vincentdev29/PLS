@@ -74,5 +74,20 @@ Liste ordonnée, puce numérotée
 </ol>
 ```
 
+## Création de lien
+##### Les liens
+```html
+<a href="https://unsitedevente.com">Le lien</a>
+Si dans le lien il y a '&' remplacer par '&amp' (format HTML5)
+
+<a href="https://unsitedeventep2.com">La page 2 du site</a>
+<a href="site/unsitedeventep2.html">On peut pointer aussi un fichier</a>
+Recap lien possible : URL, chemin relatif ou absolu
+```
+
+##### Les ancres
+
+
+
 ```
 ```
