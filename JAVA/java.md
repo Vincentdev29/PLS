@@ -1,6 +1,6 @@
 # Java
 
-Source [openclassrooms!](https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java)
+Source [openclassrooms](https://openclassrooms.com/fr/courses/26832-apprenez-a-programmer-en-java)
 
 ## Sommaire
 
